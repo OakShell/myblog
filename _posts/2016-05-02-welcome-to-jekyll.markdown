@@ -8,14 +8,20 @@ categories: jekyll update
 <h2>{{page.title}}</h2>
 <p>本篇为此博客的第一篇文章，用于测试博客功能</p>
 
-* TOC
-* {:toc}
+[边城](#边城)
+
+[边城浪子](#边城浪子)
+
+* 目录
+
+{:toc}
 
 ## 边城
 
 ![边城](https://img3.doubanio.com/lpic/s11344765.jpg)
 
 ---
+
 ## 边城浪子
 
 [边城浪子（上）](https://read.douban.com/ebook/844320/)
