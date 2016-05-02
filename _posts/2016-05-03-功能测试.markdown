@@ -1,0 +1,17 @@
+---
+layout: default
+title: 代码高亮测试
+date: 
+categories: 功能测试
+---
+
+{% highlight html %}
+	<html>
+		<head>
+			<meata http-equiv="">
+		</head>
+		<body>
+			<p>“你好”</p>
+		</body>
+	</html>
+{% endhighlight %}
