@@ -16,12 +16,14 @@ categories: jekyll update
 {:toc}
 
 ## 边城
+<h2 id="边城">边城</h2>
 
 ![边城](https://img3.doubanio.com/lpic/s11344765.jpg)
 
 ---
 
 ## 边城浪子
+<h2 id="边城浪子">边城浪子</h2>
 
 [边城浪子（上）](https://read.douban.com/ebook/844320/)
 
