@@ -8,7 +8,7 @@ categories: 功能测试
 {% highlight html %}
 	<html>
 		<head>
-			<meata http-equiv="">
+			<meata http-equiv="text/html; charset=utf-8">
 		</head>
 		<body>
 			<p>“你好”</p>
