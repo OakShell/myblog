@@ -10,3 +10,4 @@ username:  OakShell
 # Build settings
 markdown: kramdown
 highlighter: pygments
+safe: false
