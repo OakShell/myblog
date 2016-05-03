@@ -2,7 +2,7 @@
 layout: default
 title:  "第一篇博客"
 date:   2016-05-02 17:00:00 +0800
-categories: 功能测试
+categories: BlogTest
 ---
 
 <h2>{{page.title}}</h2>
