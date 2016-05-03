@@ -2,7 +2,7 @@
 layout: default
 title: 代码高亮测试
 date: 
-categories: BlogTest
+categories: 博客功能测试
 ---
 
 {% highlight html %}
